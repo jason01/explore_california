@@ -1,0 +1,6 @@
+.DS_Store
+*.zip
+*.gz
+*.log
+/assets/videos
+!assets/videos/tour_*.mp4
